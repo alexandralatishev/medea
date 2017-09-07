@@ -1,0 +1,151 @@
+.gallery {
+    position: relative;  
+    text-align: center;  
+    margin-bottom: 50px;            
+
+    @media screen and (min-width: 1200px){
+        margin-bottom: 0;            
+    } 
+
+    p {
+        font-size: 24px;
+        font-size: 2.4rem;  
+    }
+}
+
+.image-container {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 0px;
+    margin: 0 10% 2%;
+    overflow: hidden; 
+    position: relative; 
+    padding-top: 53%;
+    width: 69%;
+
+    img {
+        bottom: 0px;        
+        display: block; //Para que tome todo el espacio desponible
+        left: 0px;        
+        margin: auto;        
+        max-width: 100%;
+        max-height: 100%;
+        position: absolute;
+        right: 0px;        
+        top: 0px;
+        width: 100%;
+
+        @media screen and (min-width: 1200px){
+          margin: 0;            
+        }   
+    }
+}
+
+// Hides the range
+.gallery-range {
+    background-color: #A8A9AD;
+    height: 4px;
+    -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+    width: 90%; /* Specific width is required for Firefox. */
+
+    @media screen and (min-width: 1200px){
+        display: none;            
+    }   
+}
+
+.gallery-range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+}
+
+.gallery-range:focus {
+    outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+}
+
+.gallery-range::-ms-track {
+    /* Hides the slider so custom styles can be added */
+    background: transparent; 
+    border-color: transparent;
+    color: transparent;
+
+    cursor: pointer;
+    width: 100%;  
+}
+
+
+/* Special styling for WebKit/Blink */
+.gallery-range::-webkit-slider-thumb {
+    background: #636466;  
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    height: 15px;
+    width: 10%;
+}
+
+/* All the same stuff for Firefox */
+.gallery-range::-moz-range-thumb {
+    background: #636466;
+    border-radius: 3px;  
+    cursor: pointer;
+    height: 15px;
+    width: 10%;
+}
+
+/* All the same stuff for IE */
+.gallery-range::-ms-thumb {
+    background: #636466;  
+    border-radius: 3px;
+    cursor: pointer;
+    height: 15px;
+    width: 10%;
+}
+
+.btn-previous {
+    left: 0;
+    position: absolute;
+    top: 82%;
+
+    @media screen and (min-width: 768px){
+        top: 45%;          
+    }   
+}
+
+.btn-foward {
+    position: absolute;  
+    right: 0;   
+    top: 82%; 
+
+    @media screen and (min-width: 768px){
+        top: 45%;          
+    }  
+}
+
+.gallery-thumbnails {
+    text-align: center;
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .image-container {  
+        cursor: pointer; 
+        padding-top: 45%;
+        width: 60%; 
+
+        @media screen and (min-width: 768px){
+            float: left;
+            margin: 0 7% 2%;
+            padding-top: 30%;
+            width: 36%;       
+        }  
+
+        @media screen and (min-width: 1200px){
+            float: left;
+            margin: 0 1% 2%;
+            padding-top: 25%;
+            width: 31%;      
+        }  
+    }
+}

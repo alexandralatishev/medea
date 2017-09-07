@@ -1,0 +1,121 @@
+.full-wrapper {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.home-wrapper {
+    background-image: url("../img/portada.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    padding-bottom: 10%;
+}
+
+.cast-wrapper {
+    width: 100%;
+
+    @media screen and (min-width: 1200px) {
+        margin-left: 22%;      
+        width: 70%;
+    }
+
+    @media screen and (min-width: 1600px) {
+        margin-left: 32%;      
+        width: 70%;
+    }
+
+    .sidebar {
+        display: inline-block;
+        line-height: 1.5;
+        padding: 5% 0% 0 8%;
+        vertical-align: top;
+        width: 90%;        
+        
+        @media screen and (min-width: 1200px) { 
+            border-left: 3px solid $lightblue-accent;              
+            padding: 0 6%;  
+            width: 50%;                     
+        }
+
+        @media screen and (min-width: 1600px) { 
+            padding: 0 6%;  
+            width: 55%;                     
+        }
+    }
+}
+
+.cast-members {
+    display: inline-block;
+    margin-right: 6%;
+    text-align: left;
+    
+    @media screen and (min-width: 1200px) { 
+        text-align: right;     
+    }
+
+    h3 {
+        cursor: pointer;
+        font-size: 20px;
+        font-size: 2rem;
+        margin: 0 0 20px;
+    } 
+
+    h3:hover {
+        color: $lightblue-accent;
+    } 
+}
+
+.crew-wrapper {
+    width: 100%;
+
+    @media screen and (min-width: 1200px) {
+        margin-left: 14%;      
+        width: 90%;
+    }
+
+    @media screen and (min-width: 1600px) {
+        margin-left: 25%;      
+        width: 75%;
+    }
+
+    .sidebar {
+        display: inline-block;
+        line-height: 1.5;
+        padding: 5% 0% 0 8%;
+        vertical-align: top;
+        width: 90%;        
+        
+        @media screen and (min-width: 1200px) { 
+            border-left: 3px solid $lightblue-accent;              
+            padding: 0 6%;  
+            width: 45%;                     
+        }
+
+        @media screen and (min-width: 1600px) { 
+            padding: 0 6%;  
+            width: 50%;                     
+        }
+    }
+}
+
+.crew-members {
+    display: inline-block;
+    margin-right: 6%;    
+    text-align: left;
+    
+    @media screen and (min-width: 1200px) { 
+        text-align: right;     
+    }
+    
+    h3 {
+        cursor: pointer;
+        font-size: 20px;
+        font-size: 2rem;
+        margin: 0 0 20px;
+    } 
+
+    h3:hover {
+        color: $lightblue-accent;
+    } 
+}

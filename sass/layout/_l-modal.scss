@@ -1,0 +1,21 @@
+.modal {
+    box-sizing: border-box;
+    height: 90%;
+    left: 50%;       
+    padding: 2% 0;
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80%;      
+    z-index: 999;
+
+    .more {
+        padding: 0;
+    }
+
+    @media (max-width: "1024px") and (orientation: landscape) {
+        height: 100%;
+    }  
+}

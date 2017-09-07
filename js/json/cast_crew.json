@@ -1,0 +1,129 @@
+{
+    "cast": {
+        "en": [{
+                "name": "Lili Biamonte - María José",
+                "bio": "Liliana Biamonte Hidalgo, is a professional actress who graduated from the School of Dramatic Arts, UCR. She has more than 13 years of experience in the Costa Rican theater scene, and received the National Prize for Best Actress in theater in 2006. In 2007 she began her collaboration in audiovisual projects as an actress in short films directed by Alex Catona- The Apples and Laura Astorga- They love each other.In 2013 she starred in the short film Irene by Alexandra Latishev, which has been well received and recognized both nationally and internationally.In 2016 she starred in the feature film The Sound of Things by Ariel Escalante, which premiered at the Moscow Film Festival.And in2016 she starred in the feature film Medea by Alexandra Latishev."
+            },
+            {
+                "name": "Javier Montenegro - Javier",
+                "bio": "Javier Montenegro es actor profesional de la Escuela de Artes Dramáticas de la Universidad de Costa Rica y estudiante de Psicología de la UCR. Desde el 2011 ha participado en importantes montaje teatrales con compañías como el Teatro Universitario de la UCR, el Teatro Espressivo y con la Compañía Nacional de Teatro, ha participado en el Festival de escuelas de teatro de la UNESCO en Rumanía en el año 2012 y el Festival Internacional de Teatro de la Universidad Autónoma de Nuevo León, México. En el 2014 gana el Premio Aquileo J. Echeverría a mejor actor protagónico del año 2014. Dentro del ámbito cinematográfico ha participado en los largometrajes Medea de Alexandra Latishev e Italia 90 de Miguel Gómez."
+            },
+            {
+                "name": "Marianella Protti - Madre",
+                "bio": "She’s an actress with a career spanning 35 years with more than 60 plays and 4 operas, and belonging to theater groups like Teatro Giratablas, Teatro Punto Cero, Los Risa2, Ubú and La Trama. Her work in film involves Medea directed by Alexandra Latishev, produced by Linterna Films S.A. In 2012 she starred in the film 40 Weeks and a Quarter, by Gustavo Sánchez. In 2000 she was in the TV series Caras vemos in Costa Rica’s Channel 7, and the Gustavo Rojas directed TV shows Adventures of Emeterio and The Chosen Ones - by Guarever Productions in Repretel Canal 6. In 1994 she starred in the TV series San Buenaventura, also from Channel 7."
+
+            },
+            {
+                "name": "Arnoldo Ramos - Padre",
+                "bio": "An actor, director and playwright, who has worked in theater, film, television and radio. He’s been the receiver of the National prize of Theater several times, both for acting and dramaturgy. He’s a founding member of the Scenic Collective Breach. He has also devoted much of his life to teaching, first at the National Theater Workshop, of which he was the General Director, currently as a professor at the School of Performing Arts at the National University of Costa Rica, and as teacher of the School of Culture And Sports of the Technological Institute of Costa Rica."
+
+            },
+            {
+                "name": "Eric Calderón - Titi",
+                "bio": "He’s a professional actor who constantly works both on the country's stages and various audiovisual projects. Among his movie credits are the film Tr3s Marías directed by Francisco González, and the short film Insomnio directed by Kenneth Sanabria, with which he received several international awards for his lead performance. He has also worked as guest actor for the television series La Pensión, and various short films, television commercials, radio shows, and others. He is currently preparing for upcoming theater and film projects."
+
+            }
+        ],
+        "es": [{
+                "name": "Lili Biamonte - María José",
+                "bio": "Liliana Biamonte Hidalgo, actriz profesional egresada de la Escuela de Artes Dramáticas, UCR, cuenta con más de 13 años de experiencia en la escena teatral costarricense./n Recibe el Premio Nacional a mejor actriz de reparto en teatro en el 2006. A partir del 2007 inicia su colaboración en proyectos audiovisuales como actriz en cortometrajes bajo la dirección de Alex Catona- Las manzanas y Laura Astorga- Ellas se aman. En el 2013 protagoniza el cortometraje Irene de Alexandra Latishev, el cual ha tenido gran acogida y reconocimiento tanto a nivel nacional como internacional. En el 2016 protagoniza el largometraje El sonido de las cosas de Ariel Escalante el cual se estrena en el Festival de Cine de Moscú.Y en 2016 protagoniza el largometraje Medea de Alexandra Latishev."
+            },
+            {
+                "name": "Javier Montenegro - Javier",
+                "bio": "Javier Montenegro es actor profesional de la Escuela de Artes Dramáticas de la Universidad de Costa Rica y estudiante de Psicología de la UCR. Desde el 2011 ha participado en importantes montaje teatrales con compañías como el Teatro Universitario de la UCR, el Teatro Espressivo y con la Compañía Nacional de Teatro, ha participado en el Festival de escuelas de teatro de la UNESCO en Rumanía en el año 2012 y el Festival Internacional de Teatro de la Universidad Autónoma de Nuevo León, México. En el 2014 gana el Premio Aquileo J. Echeverría a mejor actor protagónico del año 2014. Dentro del ámbito cinematográfico ha participado en los largometrajes Medea de Alexandra Latishev e Italia 90 de Miguel Gómez."
+            },
+            {
+                "name": "Marianella Protti - Madre",
+                "bio": "Actriz con una carrera de 35 años en más de 60 obras de teatro y 4 óperas, perteneciendo a grupos como Teatro Giratablas, Teatro Punto Cero, Los Risa2, Ubú y La Trama. Su trabajo en ámbito cinematográfico en la película ¨Medea¨ dirección Alexandra Latishev, producción Linterna Films S.A. En el 2012 en la película ¨40 semanas y un cuarto¨, de Gustavo Sánchez. En el 2000 en la Serie de televisión ¨Caras vemos¨ en Canal 7. En el 2000 en la Serie de televisión ¨Las aventuras de Emeterio¨ en Repretel , dirección Gustavo Rojas. En el 2000 en la Serie de televisión ¨Los elegidos¨ en Repretel Canal 6, dirección Gustavo Rojas, Guarever Producciones. En 1994 en la serie de televisión ¨San Buenaventura¨ en Canal 7 ."
+
+            },
+            {
+                "name": "Arnoldo Ramos - Padre",
+                "bio": "Actor, director, dramaturgo, ha trabajado en teatro, cine, televisión y radio. Ganador en varias ocasiones del premio Nacional de Teatro, tanto en la rama de actuación como en la de dramaturgia. Miembro fundador del Colectivo Escénico Brecha. También ha dedicado gran parte de su vida a la enseñanza, primeramente en el Taller Nacional de Teatro del cual fue Director General y actualmente se desempeña como profesor en la Escuela de Arte Escénico de la Universidad Nacional de Costa Rica y docente de la Escuela de cultura y deporte del Instituto tecnológico de Costa Rica."
+
+            },
+            {
+                "name": "Eric Calderón - Titi",
+                "bio": "Actor profesional. Mantiene un ejercicio actoral constante en los escenarios del país así como en proyectos audiovisuales, entre los que destacan la película Tr3s Marías dirigida por Francisco González, y el cortometraje Insomnio dirigido por Kenneth Sanabria, con el cual recibe varios premios internacionales por su interpretación protagónica. Así mismo ha trabajado como actor invitado para la serie televisiva La Pensión, cortometrajes, comerciales de televisión, radio, entre otros. Actualmente se prepara para sus próximos proyectos en teatro y cine."
+            }
+        ]
+    },
+    "crew": {
+        "en": [{
+                "name": "Paz Fábrega - General Producer",
+                "bio": "Paz Fábrega studied collective communication at the University of Costa Rica. In addition to this she has a master's degree in film at the London Film School, where she graduated with a specialization in Direction and Direction of Photography. Her first film, Cold Water of the Sea won the Tiger at the Rotterdam Film Festival in Holland; one of the most important awards received by any Central American film. Her latest film Viaje competed in the official selection of the Tribeca Film Festival."
+            },
+            {
+                "name": "Cynthia García Calvo: - Executive Produce",
+                "bio": "She’s a producer and a journalist, with an outstanding trajectory in the international film industry. In 2013 she joined Grita Media as an Executive Producer. Since that year, she has released several titles in various formats, in addition to having won important prizes, funds, and festivals."
+            },
+            {
+                "name": "Soledad Salfate - Editor",
+                "bio": "A recognized Chilean editor, who has worked in more than 28 films from Chile and the world including Bonsai, Rara, Killing a Man, Glory - winner of the Silver Bear at the Berlin Film Festival, and A Fantastic Woman - winner of the Golden Bear of the Berlin Film Festival for Best Film."
+            },
+            {
+                "name": "Carolina Lett - Production Designer",
+                "bio": "Carolina Lett studied Theater direction and Art direction in Buenos Aires, Argentina. In 2009 he was awarded Best Art Direction for the short film La Piel Cansada, directed by Jurgen Ureña. She has participated in various Costa Rican feature films such as Entonces Nosotros by Hernán Jimenez, Cielo Rojo 2 by Miguel Gómez, Presos by Esteban Ramírez, Viaje by Paz Fábrega."
+            },
+            {
+                "name": "Alvaro Torres - Director of photography",
+                "bio": "Alvaro is a Costa Rican born to a Guatemalan father, a Costa Rican mother, and of Nicaraguan grandparents. He studied economics at the University of Costa Rica and did postgraduate studies in political ecology and development. After living in the Peninsula of Osa he made the decision to dedicate himself to the movies. He studied for two years at the Northwest Film Center in Portland, Oregon, and completed his master's degree in directing and screenwriting at the University of Texas. His short film Un lugar indeseado won the Best Short Film Award at the Costa Rica International Film Festival and at the Ícaro Film Festival. He is currently working on the pre-production of his debut feature documentary Nosotros las piedras."
+            },
+            {
+                "name": "Kimberly Picado - Assistant Director",
+                "bio": "Kimberly Picado graduated from the Conservatory of Castella and studied Scenic Arts at the National University of Costa Rica. Since 2008, she’s been a founding member of the Guiñol Theater Group. She has trained in acrobatics, aerial theater, gestural theater, vocal expression technique, physical comedy and directing actors. She has also had 5 years of experience in casting work for national and international audiovisual productions."
+            },
+            {
+                "name": "Ayerím Villanueva - Sound Recordist",
+                "bio": "Ayerím Villanueva Castillo is a student at the New School of Cinema and TV at Veritas University. She has worked as a producer, assistant director and editor in several short films, television commercials, and institutional documentaries."
+            },
+            {
+                "name": "Christian Cosgrove - Sound Designer",
+                "bio": "Christian Cosgrove is a sound engineer with more than 15 years of experience in sound post-production for audiovisual works in different areas. His main work is as a sound design for films, short films and documentaries. He has worked in important production companies such as Atomic, Filmosonido and Sonamos. Amongst his accomplishments are History of a Bear, winner of the Academy Award in 2016, 31 Minutes The Movie, Grade 3, Days of Cleo, Mandrill, The Life of the Fish - Directed by Matías Bize, Baby Shower, The Fumigator, and others."
+            },
+            {
+                "name": "Oscar Medina - Director of photography",
+                "bio": "Oscar Medina Oreamuno began his professional career as a journalist, where he worked as a sportswriter in the newspaper La República, as well as editor and speaker for Radio Periódicos Rolando Angulo and Radio Centro within the Ruta Alterna show. As the years passed he felt drawn towards the world of cameras and lights, and so Becoming an audiovisual producer at Publimark Lowe and Ogilvy Costa Rica advertising agencies. Oscar starts a Degree in Audiovisual Realization at the University of San Judas Tadeo and before finishing, he went to Argentina where he enters the Union of Argentine Filmmakers school(S.I.C.A), graduating as Director of Photography. In addition, Oscar has completed courses and workshops on editing, producing, color, script and actor directing. Since his return to to Costa Rica, he has been settled down as Director of Photography, cameraman, camera assistant and producer for several national companies participating in advertising projects, music videos,  documentaries  for NGOs, animations, feature films and documentaries. In 2012 he was selected to participate as Director of Photography in Talent Campus Guadalajara. In 2016 filmed“ Medea” from director Alexandra Latishev;her first fiction feature as Director of Photography, which premiered at the Buenos Aires City Film Festival(BAFICI) in 2017. Additionally, he has been working along side director Carolina Arias developing the documentary film Objetos Rebeldes for two years, which recently went through a workshop at the Costa Rica International Film Festival, at the International Festival of Panama and will continue to Mexico in the DocsMX within the Latin Campus funded by the Goethe - Institut México."
+            }
+        ],
+        "es": [{
+                "name": "Paz Fábrega - Producción General",
+                "bio": "Paz Fábrega estudió la carrera de Comunicación Colectiva en la UCR además de una maestría en cine en la London Film School, Inglaterra, donde se gradúa con especialidad en Dirección y Dirección de Fotografía. Su primera película, ¨Agua fría de mar¨ ganó el Tigre del Festival de Rotterdam en Holanda; uno de los premios más importantes que haya recibido una película centroamericana. Su más reciente película “Viaje” concursó en la selección oficial del Tribeca Film Festival."
+            },
+            {
+                "name": "Cynthia García Calvo: - Productora Ejecutiva",
+                "bio": "Productora y periodista argentina, con destacada trayectoria en la industria cinematográfica internacional. El año 2013 se sumó a Grita Medios como Productora Ejecutiva. Desde ese año, hemos estrenado diversos títulos en varios formatos, además de importantes premios, fondos y participaciones en festivales."
+            },
+            {
+                "name": "Soledad Salfate - Editora",
+                "bio": "Editora chilena destacada, ha trabajado en más de 28 películas de Chile y el mundo entre ellas Bonsai, Rara, Matar a un Hombre, Gloria ganadora del Oso de plata del Festival de Cine de Berlín, Una Mujer Fantástica ganadora de el Oso de oro del Festival de Cine de Berlín como mejor película."
+
+            },
+            {
+                "name": "Carolina Lett - Dirección de Arte",
+                "bio": "Carolina Lett estudió Dirección de Teatro y Dirección de Arte en Buenos Aires, Argentina. En el 2009 obtuvo el reconocimiento a Mejor Dirección de Arte con el cortometraje “La Piel Cansada” de Jurgen Ureña. Ha participado en distintos largometrajes costarricenses como “Entonces Nosotros“ de Hernán Jimenez, “Cielo Rojo 2“ de Miguel Gómez, “Presos“ de Esteban Ramírez, “Viaje“ de Paz Fábrega."
+
+            },
+            {
+                "name": "Alvaro Torres - Director de fotografía",
+                "bio": "Alvaro es costarricense de padre guatemalteco, de madre tica y de abuelos nicaragüenses. Estudió economía en la Universidad de Costa Rica e hizo estudios de posgrado en ecología política y desarrollo. Luego de vivir en la Península de Osa tomó la decisión de dedicarse al cine. Estudió dos años en el Northwest Film Center en Portland-Oregon, y concluyó su maestría en dirección y guión de la Universidad de Texas en Austin. Su cortometraje “Un lugar Indeseado“ ganó mejor cortometraje en el Costa Rica Festival Internacional de Cine y en el Festival Ícaro, actualmente se encuentra en la preproducción de su Opera Prima “Nosotros las Piedras“"
+            },
+            {
+                "name": "Kimberly Picado - Asistencia de dirección",
+                "bio": "Kimberly Picado se graduó del Conservatorio de Castella y estudio Arte Escénico en la Universidad Nacional de Costa Rica. Es miembro fundadora del grupo de teatro Guiñol desde el año 2008. Se ha capacitado en temas como acrobacia, teatro aéreo, teatro gestual, técnica de expresión Vocal, comedia física y dirección de actores. Además cuenta con 5 años de experiencia en realización de casting para producciones audiovisuales nacionales e internacionales."
+            },
+            {
+                "name": "Ayerím Villanueva - Sonido",
+                "bio": "Ayerím Villanueva Castillo estudia en la Nueva Escuela de Cine y TV de la Universidad Veritas. Ha trabajado como productora, asistente de dirección y editora en cortometrajes, comerciales para televisión, y documentales institucionales."
+            },
+            {
+                "name": "Christian Cosgrove - Diseño Sonoro",
+                "bio": "Christian Cosgrove es Ingeniero en Sonido con más de 15 años de experiencia en Post-Producción de Sonido para obras audiovisuales en diferentes ámbitos.Su principal trabajo es el diseño de sonido para films , cortometraje y documentales. Ha trabajado en importantes productoras audiovisuales tales como Atómica , Filmosonido y Sonamos . Dentro de sus realizaciones se encuentra “Historia de un Oso”, ganador del Premio Oscar de la Academia el año 2016, 31 Minutos La Película, Grado 3, Días de Cleo, Mandrill, La vida de los Peces - Dir.: Matías Bize, Baby Shower, El Fumigador, entre otras"
+            },
+            {
+                "name": "Oscar Medina - Director de fotografía",
+                "bio": "Oscar Medina Oreamuno inicia su carrera profesional como periodista, en dónde se desempeñó como cronista deportivo en el Periódico La República, así como redactor y locutor para Radio periódico Rolando Angulo y Radio Centro dentro del programa Ruta Alterna. Con el paso de los años se inclina por el mundo de las cámaras y las luces, hasta llegar a convertirse en productor audiovisual en las agencias de publicidad Publimark Lowe y Ogilvy Costa Rica. Oscar inicia una Licenciatura en Realización Audiovisual en la Universidad San Judas Tadeo y antes de terminar parte hacia Argentina en donde ingresa en la escuela del Sindicato de Cineastas Argentinos (S.I.C.A) hasta graduarse como Director de Fotografía. Además, Oscar ha concluido con cursos y talleres de edición, producción, color, guion y dirección de actores. Desde su regreso a Costa Rica se establece como Director de Fotografía, camarógrafo, asistente de cámara y productor para varias empresas nacionales en proyectos publicitarios, videoclips, documental para ONGs, animación, largometrajes de ficción y documental, entre otros. Fue seleccionado en el 2012 para participar del Talent Campus Guadalajara como Director de Fotografía. En el 2016 filma Medea de la directora de Alexandra Latisheva, su primer largometraje de ficción como Director de Fotografía que se estrenó en el Festival de Cine de la Ciudad de Buenos Aires(BAFICI) 2017. Además junto con la Directora Carolina Arias, están desde hace dos años con el desarrollo del largometraje documental Objetos Rebeldes, que pasó recientemente por un taller en el Costa Rica Festival Internacional de Cine."
+            }
+        ]
+    }
+}

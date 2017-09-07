@@ -1,0 +1,95 @@
+.btn {
+    background-color: $lightblue-accent;
+    border: 1px solid $lightblue-accent;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    text-align: center;
+    transition: background 1s cubic-bezier(0.760, 0.280, 0.300, 0.855), color 1s cubic-bezier(0.760, 0.280, 0.300, 0.855); /* custom */
+}
+
+.btn:hover {
+    background-color: #000;
+    color: $lightblue-accent;
+}
+
+.btn-invert {
+    background-color: #000;
+    border: 1px solid #000;
+    color: $lightblue-accent;
+    cursor: pointer;
+    font-size: 20px;
+    font-size: 2.0rem;
+    text-align: center;
+    transition: background 1s cubic-bezier(0.760, 0.280, 0.300, 0.855); /* custom */
+}
+
+.btn-invert:hover {
+    background-color: $lightblue-accent;
+    color: #000;
+}    
+
+.btn-download {
+    padding: 1.7% 2.5%;
+}
+
+.btn-svg {
+    cursor: pointer;
+}
+
+.btn-svg:hover {
+    * {
+        stroke: $lightblue-accent;
+    }
+}
+
+.btn-trailer {
+    box-sizing: border-box;
+    display: block;
+    padding: 3% 0;
+    margin-left: 35%;
+    margin-top: 65%;
+    width: 30%;
+    
+    @media screen and (min-width: '400px') {
+        margin-top: 40%;    
+    }
+
+    @media screen and (min-width: '540px') {
+        margin-top: 25%;    
+    }
+
+    @media screen and (min-width: '700px') {
+        margin-left: 43%;       
+        margin-top: 15%;    
+        padding: 1% 0;  
+        width: 15%;      
+    }
+
+    @media screen and (min-width: '1200px') {
+        margin-top: 14%; 
+    }
+}
+
+.btn-close {
+    cursor: pointer;
+    margin-right: 0;
+    position: absolute;
+    right: 0;
+    top: -55px;
+    width: 57px;
+
+    @media screen and (min-width: '1200px') {
+        margin-right: 3%;
+        right: 0;        
+    }
+}
+
+.btn-close-trailer {
+    cursor: pointer;
+    margin-right: 100;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    width: 55px;
+}

@@ -1,0 +1,27 @@
+header {
+	padding: 6% 0;
+	margin-bottom: 20%;
+
+	@media screen and (min-width: 768px){
+		padding: 4% 0;
+		margin-bottom: 6%;
+    }
+
+	@media screen and (min-width: 950px) {     
+        padding: 4% 0;
+        margin-bottom: 10%;
+    }
+
+	img {
+		width: 35%;
+		float: left;
+
+		@media screen and (min-width: 768px){
+        	width: 14%
+    	}
+
+		@media screen and (min-width: 950px) {     
+        	width: 16%;
+    	}
+	}
+}

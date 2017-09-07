@@ -1,0 +1,107 @@
+.awards-item-review{
+    border: 2px solid white;
+    position: relative;
+}
+
+.awards-item {
+    background-color: #000;
+    box-sizing: border-box;
+    color: #FFF;
+    display: inline-block;
+    //height: 380px;
+    margin-top: 5px; 
+    padding: 16%;
+    vertical-align: top;
+    width: 100%;
+
+    @media screen and (min-width: 950px){
+        padding: 6%;
+        width: 33%;
+        height: 460px;
+    }
+
+    polyline {
+        margin-bottom: 40%;
+    }
+
+    h2 {
+        font-family: $title-font;
+        position: relative;
+        text-transform: uppercase;
+    } 
+
+    a {
+        background-color: $lightblue-accent;
+        color: white;
+        display: inline-block;
+        padding: 14px 25px;
+        position: relative;
+        text-decoration: none;  
+    } 
+
+    p {
+        color: $lightblue-accent;
+        font-size: 14px; 
+        font-size: 1.4rem;
+        text-align: center;
+
+        @media screen and (min-width: 950px){
+            font-size: 17px;
+            font-size: 1.7rem;
+        }
+    } 
+
+    &:last-child {
+        margin-bottom: 40px;
+    }  
+     
+    &:hover {
+        background-color: $lightblue-accent;   
+
+        p {
+            color: white;
+        }
+    }   
+}
+
+.festival-items {
+
+    h2 {
+
+        font-size: 16px;
+        font-size: 1.6rem;
+        text-align: center; 
+
+        @media screen and (min-width: 1950px){
+            font-size: 26px;
+            font-size: 2.6rem;
+        }
+
+        &:before {
+            content: url('../img/laurel_1.png');
+        }
+    
+        &:after {
+            content: url('../img/laurel_2.png');
+        }
+    }   
+}
+
+.news-items {
+
+    h3{
+        font-size: 18px;
+        font-size: 1.8rem;
+        font-style: italic;
+        text-align: left;
+    }
+}
+
+.arrow {
+    position: relative;
+}
+
+.awards-button-arrow {
+    left: 100%;
+    position: absolute;
+}
