@@ -602,11 +602,10 @@ li:hover .submenu {
 
 .btn-close-trailer {
   cursor: pointer;
-  margin-right: 100;
   position: absolute;
   right: 0;
   top: 30px;
-  width: 55px; }
+  width: 50px; }
 
 .awardsTitle {
   color: white;
