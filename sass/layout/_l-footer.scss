@@ -13,13 +13,12 @@ footer {
 	}
 
 	p {
-		display: inline;
-		margin-right: 2%;
-		text-align: center;
+		text-align: left;
+		display: block;
 	}
 
 	img {
-		width: 10%;
+		width: 8%;
 		border: 1px solid #fff;
 
 		@media screen and (min-width: 950px) {     
