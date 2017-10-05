@@ -24,11 +24,17 @@ var castSingle = (function ($) {
                     // Resets
                     if($('#mobileBio')) {
                         $('#mobileBio').remove();
-                    };            
-                    if($('#castBio').html() == undefined) {
+                    };
+                    if($('#castBio')[0].innerHTML == '') {
                         $('#castInfo').append('<p id="castBio"></p>')  
                         castInfo =  $('#castInfo');
-                    }
+                    } else {
+                        if($('#castBio').html() == undefined) {
+                            $('#castInfo').append('<p id="castBio"></p>')  
+                            castInfo =  $('#castInfo');
+                        }
+                    }            
+                    
                     castMember.html('');
 
                     var castObj = data.cast.es;
