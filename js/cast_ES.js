@@ -27,11 +27,11 @@ var castSingle = (function ($) {
                     };
                     if($('#castBio')[0].innerHTML == '') {
                         $('#castInfo').append('<p id="castBio"></p>')  
-                        castInfo =  $('#castInfo');
+                        castInfo = $('#castInfo');
                     } else {
                         if($('#castBio').html() == undefined) {
                             $('#castInfo').append('<p id="castBio"></p>')  
-                            castInfo =  $('#castInfo');
+                            castInfo = $('#castInfo');
                         }
                     }            
                     

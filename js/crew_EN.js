@@ -22,11 +22,17 @@ var crewSingle = (function ($) {
                     // Resets
                     if($('#mobileBio')) {
                         $('#mobileBio').remove();
-                    };            
-                    if($('#crewBio').html() == undefined) {
+                    };   
+                    if($('#crewBio')[0].innerHTML == '') {
                         $('#crewInfo').append('<p id="crewBio"></p>')  
                         crewInfo =  $('#crewInfo');
-                    }
+                    }    
+                    else {
+                        if($('#crewBio').html() == undefined) {
+                            $('#crewInfo').append('<p id="crewBio"></p>')  
+                            crewInfo =  $('#crewInfo');
+                        }
+                    }   
                     crewMember.html('');
 
                     var crewObj = data.crew.en;
