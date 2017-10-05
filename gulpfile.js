@@ -4,6 +4,7 @@ var uglify = require('gulp-uglify');
 var gulpIf = require('gulp-if');
 var imagemin = require('gulp-imagemin');
 var gulp = require('gulp');
+var modernizr = require('gulp-modernizr');
 
 gulp.task('autoprefixer', function () {
     var postcss = require('gulp-postcss');
@@ -40,4 +41,10 @@ gulp.task('images', function () {
         .pipe(imagemin())
         .pipe(gulp.dest('img'))
 });
-gulp.task('build', ['autoprefixer', 'useref_en', 'useref_es']);
+gulp.task('modernizr', function() {
+    return gulp.src('js/*.js')
+        .pipe(imagemin())
+        .pipe(gulp.dest('js'))
+        .pipe(modernizr())
+})
+gulp.task('build', ['autoprefixer', 'useref_en', 'useref_es', 'modernizr']);

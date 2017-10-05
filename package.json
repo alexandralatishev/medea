@@ -25,6 +25,7 @@
     "cssnano": "^3.10.0",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.3.0",
+    "gulp-modernizr": "^1.0.0-alpha",
     "gulp-postcss": "^7.0.0",
     "gulp-uglify": "^3.0.0",
     "gulp-useref": "^3.1.2"
