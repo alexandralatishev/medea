@@ -22,8 +22,8 @@ var crewSingle = (function ($) {
                     // Resets
                     if($('#mobileBio')) {
                         $('#mobileBio').remove();
-                    };   
-                    if($('#crewBio')[0].innerHTML == '') {
+                    };            
+                    if($('#crewBio').html() == undefined) {
                         $('#crewInfo').append('<p id="crewBio"></p>')  
                         crewInfo =  $('#crewInfo');
                     }

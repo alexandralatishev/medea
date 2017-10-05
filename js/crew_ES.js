@@ -23,10 +23,10 @@ var crewSingle = (function ($) {
                     if($('#mobileBio')) {
                         $('#mobileBio').remove();
                     };            
-                    if($('#crewBio')[0].innerHTML == '') {
+                    if($('#crewBio').html() == undefined) {
                         $('#crewInfo').append('<p id="crewBio"></p>')  
                         crewInfo =  $('#crewInfo');
-                    } 
+                    }
                     crewMember.html('');
 
                     var crewObj = data.crew.es;

@@ -22,12 +22,11 @@ var castSingle = (function ($) {
                     // Resets
                     if($('#mobileBio')) {
                         $('#mobileBio').remove();
-                    };        
-                    if($('#castBio')[0].innerHTML == '') {
+                    };            
+                    if($('#castBio').html() == undefined) {
                         $('#castInfo').append('<p id="castBio"></p>')  
-                        castInfo =  $('#castInfo'); 
+                        castInfo =  $('#castInfo');
                     }
-                    
                     castMember.html('');
 
                     var castObj = data.cast.en;
@@ -83,7 +82,7 @@ var castSingle = (function ($) {
 
         // Triggered if the JSON fails
         function jsonError() {
-            castBio.html("Sorry, the page didn't load properly, try again later");    
+            $('#castBio').html("Sorry, the page didn't load properly, try again later");    
         }
     };
 
