@@ -26,8 +26,7 @@ var crewSingle = (function ($) {
                     if($('#crewBio')[0].innerHTML == '') {
                         $('#crewInfo').append('<p id="crewBio"></p>')  
                         crewInfo =  $('#crewInfo');
-                    }    
-                    else {
+                    } else {
                         if($('#crewBio').html() == undefined) {
                             $('#crewInfo').append('<p id="crewBio"></p>')  
                             crewInfo =  $('#crewInfo');
