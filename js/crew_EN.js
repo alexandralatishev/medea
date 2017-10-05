@@ -82,7 +82,7 @@ var crewSingle = (function ($) {
 
         // Triggered if the JSON fails
         function jsonError() {
-            crewBio.html('Lo sentimos pero la página no cargó correctamente, inténtelo de nuevo más tarde');    
+            $('#crewBio').html('Lo sentimos pero la página no cargó correctamente, inténtelo de nuevo más tarde');    
         }
     };
 
