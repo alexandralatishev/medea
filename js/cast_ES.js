@@ -84,7 +84,7 @@ var castSingle = (function ($) {
 
         // Triggered if the JSON fails
         function jsonError() {
-            ('#castBio').html('Lo sentimos pero la página no cargó correctamente, inténtelo de nuevo más tarde');    
+            $('#castBio').html('Lo sentimos pero la página no cargó correctamente, inténtelo de nuevo más tarde');    
         }
     };
 
