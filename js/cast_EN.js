@@ -4,6 +4,7 @@ var castSingle = (function ($) {
     var instance;
 
     function init() {
+        console.log('wtf!')
         var castMember = $('#cast');
         var jqxhr = $.getJSON( "../js/json/cast_crew.json", function(data) {
             jsonSuccess(data);
